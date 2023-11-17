@@ -1,0 +1,11 @@
+.style{
+    background-color:rgb(190, 102, 102);
+    color:white;
+    text-align: center;
+    margin:0 auto;
+    font-style: italic;
+    width: 50%;
+padding:20px;
+margin-top:20px;
+border-radius: 2px;
+}
